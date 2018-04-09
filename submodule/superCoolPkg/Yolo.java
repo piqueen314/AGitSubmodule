@@ -1,4 +1,4 @@
-package com.cecehedrick.submodule.superCoolPkg;
+package submodule.superCoolPkg;
 
 public class Yolo {
     public static void cool(String hellYeah){
